@@ -1,0 +1,9 @@
+a.out
+hello
+*.o
+*~
+*.dSYM
+/lab/
+sol/
+
+
